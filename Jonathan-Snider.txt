@@ -72,7 +72,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
 
     17. What is CSS used for?
 
-        CSS is used to style your html 
+        CSS is used to style your html or webpage
 
     18. How to we select an element? Example - every h2 on the page
 
@@ -212,6 +212,6 @@ Stretch Questions
    
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? 
 
-    
+
 
    --> 
